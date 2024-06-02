@@ -1,0 +1,13 @@
+{
+    "domain": "dev-8ndyqyywivoc5rki.us.auth0.com",
+    "clientId": "2L4UBZFmbZ53Ys0e4U8c51s7rbmJlgLD",
+    "authorizationParams": {
+      "audience": "https://nextpixel-api"
+    },
+    "apiUri": "https://ws-next-pixel.vercel.app",
+    "appUri": "https://next-pixel.vercel.app",
+    "errorPath": "/error",
+    "clientIdM": "C7ha2nNAJKdhwYi20qz1icPXsCp5XGaI",
+    "clientSecret": "HCkoeGQptQ-vdeYAzPX3617COmgq58qlRve5Ii9HbLtn_OCGxatuuyEN_BxmxEBw",
+    "audienceM": "https://dev-8ndyqyywivoc5rki.us.auth0.com/api/v2/"
+  }
